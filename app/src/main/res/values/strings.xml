@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Yimulu Helper</string>
+    <string name="developer_name">By Abubeker Shamil</string>
+    <string name="icon_discription">yimulu helper icon and name</string>
+    <string name="phone_number_hint">Phone Number</string>
+    <string name="amount">Amount</string>
+    <string name="code">Pin Code</string>
+    <string name="change_pin">Change Pin</string>
+    <string name="yimulu_count">Yimulu Count</string>
+    <string name="zero">0</string>
+    <string name="contact_picker">contact picker</string>
+    <string name="icon_close">icon_close</string>
+    <string name="icon_options">icon_options</string>
+    <string name="yimulu">Yimulu</string>
+    <string name="helper">Helper</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="pin_code">Pin code</string>
+    <string name="send">Send</string>
+    <string name="developer">by Abubeker Shamil</string>
+    <string name="icon_social_media">icon_social_media</string>
+    <string name="copyright">icon_copyright</string>
+    <string name="icon_contact">icon_contact</string>
+    <string name="about">About</string>
+    <string name="donate">Donate</string>
+</resources>
